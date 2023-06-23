@@ -8,15 +8,24 @@ By pinpointing the key factors that significantly influence case status,suitable
 Solution Approach:
 
 Exploratory Data Analysis: Data Overview, Univariate Bi Variate Analysis
+
 Data Cleaning: Outlier Check and Treatment, Missing/Duplicate Value Check, Feature
 Engineering
+
 Bagging: Decision Trees, Bagging Classifiers, Random Forests, Model Performance
 Evaluation, Model Tuning
+
 Boosting: AdaBoosting, Gradient Boosting, XG Boosting, Stacking, Model Performance
 Evaluation, Model Tuning
+
 Model Selection: Model Evaluation, Important Features
+
 Business Recommendations: Actionable Insights, Profitable Suggestions
 
-Concepts Utilized: EDA, Feature Engineering, Ensemble Techniques, Bagging, Random Forests, AdaBoost, Gradient Boost, XG Boost, Stacking.
+Concepts Utilized: 
 
-Tools: Excel, Python, Jupyter Notebooks, Google Colab
+EDA, Feature Engineering, Ensemble Techniques, Bagging, Random Forests, AdaBoost, Gradient Boost, XG Boost, Stacking.
+
+Tools: 
+
+Excel, Python, Jupyter Notebooks, Google Colab
