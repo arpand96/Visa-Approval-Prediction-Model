@@ -24,7 +24,7 @@ Business Recommendations: Actionable Insights, Profitable Suggestions
 
 Concepts Utilized: 
 
-EDA, Feature Engineering, Ensemble Techniques, Bagging, Random Forests, AdaBoost, Gradient Boost, XG Boost, Stacking.
+EDA, Feature Engineering, Ensemble Techniques, Bagging, Random Forests, AdaBoost, Gradient Boost, XG Boost, Stacking, Hyperparameter Tuning.
 
 Tools: 
 
